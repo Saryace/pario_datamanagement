@@ -4,3 +4,8 @@
 
 * Los datos usados son un ejemplo
 * Se reciben comentarios para mejorar su uso a biofisica@ing.puc.cl y seaceved@uc.cl
+
+| Script | Objetivo |
+| ------------- | ------------- |
+| 00_librerias  | Cargar las librerias necesarias  |
+| 00_importar_excel  | Usando readxl se leen las columnas con datos  |
