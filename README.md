@@ -7,5 +7,7 @@
 
 | Script | Objetivo |
 | ------------- | ------------- |
-| 00_librerias  | Cargar las librerias necesarias  |
-| 00_importar_excel  | Usando readxl se leen las columnas con datos  |
+| pario_data_analysis.R  | Lee todos los scripts desde el 00 en orden |
+| 00_librerias.R  | Cargar las librerias necesarias  |
+| 01_importar_excel.R  | Usando readxl se leen las columnas con datos  |
+
