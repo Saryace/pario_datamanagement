@@ -11,6 +11,7 @@
 | pario_data_analysis.R  | Lee todos los scripts desde el 00 en orden |
 | scripts/00_librerias.R  | Cargar las librerias necesarias  |
 | scripts/01_importar_excel.R  | Usando readxl se leen las columnas con datos  |
+| scripts/02_limpiar_datos.R  | Las curvas PSD quedan en formato largo y fracciones en ancho  |
 
 ## No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
 
