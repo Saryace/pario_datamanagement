@@ -12,3 +12,9 @@
 | 00_librerias.R  | Cargar las librerias necesarias  |
 | 01_importar_excel.R  | Usando readxl se leen las columnas con datos  |
 
+## No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
+
+1. [Testing the integral suspension pressure method for soil particle size analysis across a range of soil organic matter contents](https://doi.org/10.31545/intagr/144387)
+2. [Website laboratorio](https://biofisica.ing.puc.cl)
+3. [Twitter](https://twitter.com/soilbiophysics1)
+4. [Instagram](https://www.instagram.com/soilbiophysicslab)
