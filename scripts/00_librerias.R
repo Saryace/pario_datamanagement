@@ -1,3 +1,4 @@
 library(tidyverse)
 library(here)
-library(readxl)
+library(readxl) # leer los excels
+library(soiltexture)
