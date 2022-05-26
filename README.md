@@ -1,4 +1,4 @@
-## Pario data management
+## PARIO data management
 
 ### Este repositorio contiene R scripts para importar y analizar los datos del equipo PARIO para análisis de distribución de tamaño de partículas
 
