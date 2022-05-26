@@ -2,7 +2,8 @@
 
 ### Este repositorio contiene R scripts para importar y analizar los datos del equipo PARIO para análisis de distribución de tamaño de partículas
 
-* Los datos usados son un ejemplo
+* Los datos usados son un ejemplo, siendo los excel que entrega PARIO sin modificación
+* El naming de los archivos es al estilo del Laboratorio de Biofísica de Suelos
 * Se reciben comentarios para mejorar su uso a biofisica@ing.puc.cl y seaceved@uc.cl
 
 | Script | Objetivo |
