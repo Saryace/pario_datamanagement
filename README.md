@@ -13,7 +13,7 @@
 | scripts/01_importar_excel.R  | Usando readxl se leen las columnas con datos  |
 | scripts/02_limpiar_datos.R  | Las curvas PSD (diameter vs cumulative fraction) quedan en formato largo y fracciones (sand, silt and clay) en ancho  |
 
-## No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
+### No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
 
 1. [Testing the integral suspension pressure method for soil particle size analysis across a range of soil organic matter contents](https://doi.org/10.31545/intagr/144387)
 2. [Website laboratorio](https://biofisica.ing.puc.cl)
@@ -33,7 +33,7 @@
 | scripts/01_importar_excel.R  | Use readxl to read data  |
 | scripts/02_limpiar_datos.R  | PSD curves (diameter vs cumulative fraction) are in long and fractions (sand, silt and clay) in wide format  |
 
-Don't forget to follow Laboratorio Biofisica de Suelos in Twitter and Instagram and to read the PARIO paper of our research group
+### Don't forget to follow Laboratorio Biofisica de Suelos in Twitter and Instagram and to read the PARIO paper of our research group
 
 1. [Testing the integral suspension pressure method for soil particle size analysis across a range of soil organic matter contents](https://doi.org/10.31545/intagr/144387)
 2. [Website laboratorio](https://biofisica.ing.puc.cl)
