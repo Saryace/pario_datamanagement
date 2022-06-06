@@ -28,6 +28,7 @@
 #### Curvas PSD - PSD curves
 
 ![psd_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/psd_plot.png?raw=true)
+#### :heart: Curvas PSD - PSD curves :heart:
 
 ![cute_gif](https://github.com/Saryace/pario_datamanagement/blob/master/figures/cute_psd.gif?raw=true)
 
