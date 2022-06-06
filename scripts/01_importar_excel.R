@@ -30,4 +30,3 @@ sieved_raw <-   bind_rows(setNames(lapply(file.list, function(x)
              sheet = 2,
              "B8:G13")),
   file.list), .id = "id")
-

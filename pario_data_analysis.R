@@ -1,3 +1,11 @@
+
+# Instalar librerias ------------------------------------------------------
+
+# install.packages(c(tidyverse,
+#                    soiltexture,
+#                    ggtern,
+#                    janitor))
+
 # Cargar scripts  ---------------------------------------------------------
 
 library(tidyverse)
