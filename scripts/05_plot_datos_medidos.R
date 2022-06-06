@@ -33,7 +33,8 @@ measured_plot <-
                        labels = c("A", "B")) +
   scale_shape_discrete(name = "Measurement",
                        labels = c("fit", "pressure (Pa)", "temperature (°C)")) +
-  labs(x = "runtime (seconds)") 
+  labs(x = "runtime (seconds)") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 
 ggsave(
   "figures/measured_plot.png",
