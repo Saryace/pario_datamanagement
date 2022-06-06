@@ -20,7 +20,7 @@
 
 ### Figures
 
-![urban_map](https://github.com/Saryace/mapa_urbano/blob/main/mapas/mapa_urbano.jpeg?raw=true)
+![textural_triangle](https://github.com/Saryace/pario_datamanagement/blob/main/figures/textural_triangle.png?raw=true)
 
 ![urban_map](https://github.com/Saryace/mapa_urbano/blob/main/mapas/mapa_urbano.jpeg?raw=true)
 
