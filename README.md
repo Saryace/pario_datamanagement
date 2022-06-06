@@ -20,12 +20,16 @@
 
 ### Figures
 #### Triángulo - Triangle
+
 ![textural_triangle](https://github.com/Saryace/pario_datamanagement/blob/master/figures/textural_triangle.png?raw=true)
-Mediciones ISP - ISP measurements
+#### Mediciones ISP - ISP measurements
+
 ![measured_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/measured_plot.png?raw=true)
-Curvas PSD - PSD curves
+#### Curvas PSD - PSD curves
+
 ![psd_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/psd_plot.png?raw=true)
-:heart:Curvas PSD - PSD curves:heart:
+#### :heart:Curvas PSD - PSD curves:heart:
+
 [!cute_gif](https://github.com/Saryace/pario_datamanagement/blob/master/figures/cute_psd.gif?raw=true)
 
 ### :es: No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
