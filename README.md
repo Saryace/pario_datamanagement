@@ -26,6 +26,8 @@
 
 ![psd_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/psd_plot.png?raw=true)
 
+[![cute_video](https://github.com/Saryace/pario_datamanagement/blob/master/figures/cute_psd.mp4?raw=true)
+
 ### :es: No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
 
 1. [Testing the integral suspension pressure method for soil particle size analysis across a range of soil organic matter contents](https://doi.org/10.31545/intagr/144387)
