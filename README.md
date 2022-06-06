@@ -22,9 +22,9 @@
 
 ![textural_triangle](https://github.com/Saryace/pario_datamanagement/blob/master/figures/textural_triangle.png?raw=true)
 
-![urban_map](https://github.com/Saryace/mapa_urbano/blob/main/mapas/mapa_urbano.jpeg?raw=true)
+![measured_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/measured_plot.png?raw=true)
 
-![urban_map](https://github.com/Saryace/mapa_urbano/blob/main/mapas/mapa_urbano.jpeg?raw=true)
+![psd_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/psd_plot.png?raw=true)
 
 ### :es: No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
 
