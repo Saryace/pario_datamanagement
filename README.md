@@ -9,9 +9,22 @@
 | Script | Objetivo |
 | ------------- | ------------- |
 | pario_data_analysis.R  | Lee todos los scripts desde el 00 en orden |
+| cute_animation.R  | Just for fun |
 | scripts/00_librerias.R  | Cargar las librerias necesarias  |
 | scripts/01_importar_excel.R  | Usando readxl se leen las columnas con datos  |
 | scripts/02_limpiar_datos.R  | Las curvas PSD (diameter vs cumulative fraction) quedan en formato largo y fracciones (sand, silt and clay) en ancho  |
+| scripts/03_analisis_clase_textural.R  | Define la clase textural según USDA  |
+| scripts/04_triangulo_textura.R  | Grafica las fracciones (sand, silt and clay) en el triangulo USDA  |
+| scripts/05_plot_datos_medidos.R  | Grafica temperatura, presión y ajuste  |
+| scripts/06_psd.R  | Grafica las curvas PSD (diameter vs cumulative fraction)  |
+
+### Figures
+
+![textural_triangle](https://github.com/Saryace/pario_datamanagement/blob/master/figures/textural_triangle.png?raw=true)
+
+![measured_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/measured_plot.png?raw=true)
+
+![psd_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/psd_plot.png?raw=true)
 
 ### :es: No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
 
@@ -28,10 +41,15 @@
 
 | Script | Objetive |
 | ------------- | ------------- |
-| pario_data_analysis.R  | Reads all scripts from 00 onwards in order |
+| pario_data_analysis.R  | Read all scripts from 00 onwards in order |
+| cute_animation.R  | Just for fun |
 | scripts/00_librerias.R  | Load required libraries  |
 | scripts/01_importar_excel.R  | Use readxl to read data  |
 | scripts/02_limpiar_datos.R  | PSD curves (diameter vs cumulative fraction) are in long and fractions (sand, silt and clay) in wide format  |
+| scripts/03_analysis_textural_class.R | Describe the textural class according to USDA |
+| scripts/04_triangle_texture.R | Plot fractions (sand, silt and clay) using the USDA triangle |
+| scripts/05_plot_measured_data.R | Plot temperature, pressure and fitting |
+| scripts/06_psd.R | Plot PSD (diameter vs cumulative fraction) curves |
 
 ### :us: Don't forget to follow Laboratorio Biofisica de Suelos in Twitter and Instagram and to read the PARIO paper of our research group
 
