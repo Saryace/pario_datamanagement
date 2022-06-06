@@ -18,6 +18,14 @@
 | scripts/05_plot_datos_medidos.R  | Grafica temperatura, presión y ajuste  |
 | scripts/06_psd.R  | Grafica las curvas PSD (diameter vs cumulative fraction)  |
 
+### Figures
+
+![urban_map](https://github.com/Saryace/mapa_urbano/blob/main/mapas/mapa_urbano.jpeg?raw=true)
+
+![urban_map](https://github.com/Saryace/mapa_urbano/blob/main/mapas/mapa_urbano.jpeg?raw=true)
+
+![urban_map](https://github.com/Saryace/mapa_urbano/blob/main/mapas/mapa_urbano.jpeg?raw=true)
+
 ### :es: No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
 
 1. [Testing the integral suspension pressure method for soil particle size analysis across a range of soil organic matter contents](https://doi.org/10.31545/intagr/144387)
