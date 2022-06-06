@@ -42,6 +42,7 @@
 | Script | Objetive |
 | ------------- | ------------- |
 | pario_data_analysis.R  | Read all scripts from 00 onwards in order |
+| cute_animation.R  | Just for fun |
 | scripts/00_librerias.R  | Load required libraries  |
 | scripts/01_importar_excel.R  | Use readxl to read data  |
 | scripts/02_limpiar_datos.R  | PSD curves (diameter vs cumulative fraction) are in long and fractions (sand, silt and clay) in wide format  |
