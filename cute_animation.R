@@ -11,6 +11,7 @@
 
 # -------------------------------------------------------------------------
 
+library(tidyverse)
 library(gganimate)
 library(gifski)
 library(png)
@@ -55,6 +56,6 @@ cute_psd_plot <- curva_data_clean %>%
   view_follow(fixed_x = TRUE,fixed_y = TRUE)
 
 
-cute_psd_anim <- animate(cute_psd_plot, renderer = ffmpeg_renderer())
+animate(cute_psd_plot, renderer = gifski_renderer("figures/cute_psd.gif"))
 
-anim_save("figures/cute_psd.mp4", cute_psd_anim)
+
