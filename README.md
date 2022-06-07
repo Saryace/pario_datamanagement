@@ -1,10 +1,10 @@
-## PARIO data management
+## PARIO data management :es: :us:
 
-### :es: Este repositorio contiene R scripts para importar y analizar los datos del equipo PARIO para análisis de distribución de tamaño de partículas. Work in progress. 
+### :es: Este repositorio contiene R scripts para importar y analizar los datos del equipo PARIO para análisis de distribución de tamaño de partículas.  
 
 * Los datos usados son un ejemplo, siendo los excel que entrega PARIO sin modificación
 * El naming de los archivos es al estilo del Laboratorio de Biofísica de Suelos
-* Se reciben comentarios para mejorar su uso a biofisica@ing.puc.cl y seaceved@uc.cl
+* Colaborión? Comentarios? contactar a biofisica@ing.puc.cl con copia a seaceved@uc.cl
 
 | Script | Objetivo |
 | ------------- | ------------- |
@@ -19,14 +19,18 @@
 | scripts/06_psd.R  | Grafica las curvas PSD (diameter vs cumulative fraction)  |
 
 ### Figures
+#### Triángulo - Triangle
 
 ![textural_triangle](https://github.com/Saryace/pario_datamanagement/blob/master/figures/textural_triangle.png?raw=true)
+#### Mediciones ISP - ISP measurements
 
 ![measured_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/measured_plot.png?raw=true)
+#### Curvas PSD - PSD curves
 
 ![psd_plot](https://github.com/Saryace/pario_datamanagement/blob/master/figures/psd_plot.png?raw=true)
+#### :heart: Curvas PSD - PSD curves :heart:
 
-[![cute_video](https://github.com/Saryace/pario_datamanagement/blob/master/figures/cute_psd.mp4?raw=true)
+![cute_gif](https://github.com/Saryace/pario_datamanagement/blob/master/figures/cute_psd.gif?raw=true)
 
 ### :es: No olvides seguir al Laboratorio Biofisica de Suelos PUC en sus redes, ni leer el paper del PARIO de nuestro grupo de investigación
 
@@ -37,9 +41,9 @@
 
 ### :us: This repository contains R scripts to import and analyze PARIO data for particle size distribution analysis. Work in progress.
 
-* Excel files provided by PARIO without modification are used as example
+* Excel files exported from PARIO software without modification are used as example
 * Naming of files fits with the style of the Soil Biophysics Laboratory.
-* Comments and suggestions are welcome at biofisica@ing.puc.cl and seaceved@uc.cl.
+* Colaboration? Comments? suggestions are welcome at biofisica@ing.puc.cl and seaceved@uc.cl.
 
 | Script | Objetive |
 | ------------- | ------------- |
