@@ -46,6 +46,7 @@ cute_psd_plot <- curva_data_clean %>%
        alpha = "Sieved data") +
   scale_color_discrete(name = "Replicate",
                        labels = c("A", "B")) +
+  scale_x_log10() +
   ggcute::theme_fairyfloss() +
   theme(axis.text.x = element_text(
     angle = 90,

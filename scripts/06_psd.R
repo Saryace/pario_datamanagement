@@ -35,6 +35,7 @@ psd_plot <- curva_data_clean %>%
   labs(x = "particle diameter (μm)",
        y = "cumulative relative mass (-)",
        alpha = "Sieved data") +
+  scale_x_log10() +
   scale_color_discrete(name = "Replicate",
                        labels = c("A", "B"))
 
