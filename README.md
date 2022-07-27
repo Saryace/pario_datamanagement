@@ -4,7 +4,7 @@
 
 * Los datos usados son un ejemplo, siendo los excel que entrega PARIO sin modificación
 * El naming de los archivos es al estilo del Laboratorio de Biofísica de Suelos
-* Colaborión? Comentarios? contactar a biofisica@ing.puc.cl con copia a seaceved@uc.cl
+* Colaboración? Comentarios? contactar a seaceved@uc.cl
 
 | Script | Objetivo |
 | ------------- | ------------- |
@@ -43,7 +43,7 @@
 
 * Excel files exported from PARIO software without modification are used as example
 * Naming of files fits with the style of the Soil Biophysics Laboratory.
-* Colaboration? Comments? suggestions are welcome at biofisica@ing.puc.cl and seaceved@uc.cl.
+* Colaboration? Comments? suggestions are welcome at seaceved@uc.cl.
 
 | Script | Objetive |
 | ------------- | ------------- |
